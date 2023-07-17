@@ -1,0 +1,4 @@
+pyvista
+matplotlib
+prettytable
+vtk==9.2.2
